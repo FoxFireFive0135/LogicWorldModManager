@@ -1,0 +1,9 @@
+{
+	"title": "RSM - Random Stuff Mod",
+	"description": "A mod that adds some random and useful parts, mainly made this for counters",
+	"version": "0.0.1",
+	"author": "FoxFireFive",
+	"modID": "rsm",
+	"dependencies": [],
+	"tags": ["Utility"]
+}
